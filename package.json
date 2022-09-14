@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bson": "^4.7.0",
+    "chrome-launcher": "^0.15.1",
+    "fs": "^0.0.1-security",
+    "lighthouse": "^9.6.7",
+    "mongodb": "^4.9.1",
+    "webpagetest": "^0.6.0"
+  }
+}
